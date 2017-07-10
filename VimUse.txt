@@ -1,1 +1,0 @@
-This file is to study how to use Vim!

@@ -1,1 +1,0 @@
-No pains,no gains!
